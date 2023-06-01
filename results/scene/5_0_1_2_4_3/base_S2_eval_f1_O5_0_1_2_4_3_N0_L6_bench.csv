@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+scene,0.0,base,2,f1,5_0_1_2_4_3,0,6,perceptron,perceptron,perceptron,perceptron,perceptron,perceptron,0.5296442687747036,0.6177103361322451,0.6184719242212974,0.13720538720538722,0.5474104810204394,0.6335172362613614,0.6287794955576707,0.13331796526817274

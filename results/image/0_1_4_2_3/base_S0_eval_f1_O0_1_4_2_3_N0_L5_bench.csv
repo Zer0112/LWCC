@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+image,0.0,base,0,f1,0_1_4_2_3,0,5,naive_bayes,naive_bayes,naive_bayes,naive_bayes,naive_bayes,0.2275132275132275,0.5159804926990224,0.5121680191479855,0.26968253968253963,0.23500000000000001,0.5236884250399491,0.5199830506375832,0.2645925925925926

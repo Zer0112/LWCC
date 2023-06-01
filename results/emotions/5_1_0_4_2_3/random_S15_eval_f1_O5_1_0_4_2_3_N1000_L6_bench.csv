@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+emotions,-0.66109433238285,random,15,f1,5_1_0_4_2_3,1000,6,ridge,logistic_regression,ridge,ridge,naive_bayes,random_forest,0.3217777777777778,0.66109433238285,0.6722451979228122,0.20059259259259257,0.27840199750312117,0.6268586934336626,0.6376246348934567,0.21743653766125673

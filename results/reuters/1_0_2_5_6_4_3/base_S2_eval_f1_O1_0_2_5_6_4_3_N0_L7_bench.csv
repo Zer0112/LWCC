@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,classifiers_6,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+reuters,0.0,base,2,f1,1_0_2_5_6_4_3,0,7,perceptron,perceptron,perceptron,perceptron,perceptron,perceptron,perceptron,0.5584656084656084,0.557578926015035,0.6689998823162654,0.11069538926681782,0.5575925925925928,0.5518027486811218,0.6613860688718011,0.11362433862433861

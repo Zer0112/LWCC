@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+emotions,0.0,base,6,f1,0_5_1_2_3_4,0,6,decision_tree,decision_tree,decision_tree,decision_tree,decision_tree,decision_tree,0.20266666666666666,0.5629561461627814,0.5720090568053592,0.2653333333333333,0.19600499375780273,0.5498679025081796,0.5579190293901723,0.27288805659592175

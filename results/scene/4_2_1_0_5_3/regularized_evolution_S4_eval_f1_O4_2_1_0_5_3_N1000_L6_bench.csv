@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+scene,-0.7602687799413206,regularized_evolution,4,f1,4_2_1_0_5_3,1000,6,knn,svm,svm,svm,logistic_regression,svm,0.6831357048748354,0.7602687799413206,0.7498721310659194,0.08552920509442248,0.6857230674658061,0.7534003573345385,0.7419635075428832,0.08782849239280775

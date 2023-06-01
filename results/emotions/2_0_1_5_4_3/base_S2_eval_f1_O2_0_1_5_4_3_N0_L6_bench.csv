@@ -1,0 +1,2 @@
+dataset,best_value,algo_name,seed_alg,eval_metric,order,num_examples,number_of_labels,classifiers_0,classifiers_1,classifiers_2,classifiers_3,classifiers_4,classifiers_5,score_acc,score_f1_macro,score_f1_micro,score_hamming,score_val_acc,score_val_f1_macro,score_val_f1_micro,score_val_hamming
+emotions,0.0,base,2,f1,2_0_1_5_4_3,0,6,perceptron,perceptron,perceptron,perceptron,perceptron,perceptron,0.059555555555555556,0.2265372006370901,0.3680149550428391,0.3754074074074074,0.048689138576779034,0.21898760190730526,0.35560400654222774,0.379317519766958
